@@ -1,9 +1,11 @@
 ### Hi there 👋
 
+<p>
 I'm Leonardo Demetrio
 I'm 23 years old
 I'm from Brazil
-I'm a backend developer and I am currently studying frontend technologies 
+I'm a backend developer and I am currently studying frontend technologies
+</p>
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leovd100&layout=compact)](https://github.com/leovd100/github-readme-stats)
