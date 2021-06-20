@@ -7,9 +7,9 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leovd100)](https://github.com/leovd100/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leovd100)](https://github.com/leovd100/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leovd100&show_icons=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leovd100&show_icons=true&theme=radical)
+
 
 
 <!--
