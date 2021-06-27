@@ -4,9 +4,9 @@
 ### Hi there 👋
 
 
-###### I'm Leonardo Demetrio, I'm 23 years old
-###### I'm from Brazil
-###### I'm a back-end developer and currently studying front-end technologies
+#### I'm Leonardo Demetrio, I'm 23 years old
+#### I'm from Brazil
+#### I'm a back-end developer and currently studying front-end technologies
 
 ---
 
