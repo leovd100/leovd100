@@ -19,7 +19,9 @@
 
 #### Contact
 
-<a src="https://www.linkedin.com/in/leonardodemetrio/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" heigth="50" width="60"></a>
+<a href="https://www.linkedin.com/in/leonardodemetrio/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" heigth="50" width="60">
+</a>
 
 ----
 
