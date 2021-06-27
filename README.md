@@ -1,3 +1,7 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
+
+
+
 ### Hi there 👋
 
 
@@ -6,9 +10,7 @@
 ###### I'm a back-end developer and currently studying front-end technologies
 
 ---
- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
-
-
+ 
 
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=leovd100&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
