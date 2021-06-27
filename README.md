@@ -1,7 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 
 
-
 ### Hi there 👋
 
 
@@ -10,7 +9,6 @@
 ###### I'm a back-end developer and currently studying front-end technologies
 
 ---
- 
 
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=leovd100&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -19,37 +17,22 @@
 
 #### Program languages:
 
+
 <div style="display: inline_block">
-    <img style="filter: drop-shadow(0 0 5px rgb(204, 0, 255)) drop-shadow( 0 1px 1px black);" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="Csharp icon">
-    <img style="filter: drop-shadow(2px 0px 5px rgb(240, 255, 0)) drop-shadow( 0px 2px 5px rgb(0, 140, 255));" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python icon">
-    <img style="filter: drop-shadow(0 0 5px rgb(255, 153, 0)) drop-shadow( 0 1px 1px black);" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML icon">
-    <img  style="filter: drop-shadow(0 0 5px rgb(0, 140, 255)) drop-shadow( 0 1px 1px black);" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 icon">
-    <img style="filter: drop-shadow(0 0 5px rgb(240, 255, 0)) drop-shadow( 0 1px 1px black);"  align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript icon">
+
+
+
+|BACK-END |FRONT-END  | FRAMEWORKS | CONTAINER <br/>AND<br/> ORCHESTRATORS
+| --- | --- | --- | --- 
+|<img align="center" class="csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="Csharp icon">  | &nbsp;<img style="filter: drop-shadow(0 0 5px rgb(255, 153, 0)) drop-shadow( 0 1px 1px black);" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML icon"> | &nbsp;<img style="filter: drop-shadow(0 0 2px rgb(25, 255, 255)) drop-shadow( 0 1px 3px black);" align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" alt="dot net icon">| &nbsp;<img style="filter: drop-shadow(0 0 2px rgb(0, 162, 255)) drop-shadow( 0 1px 1px black); " align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="Docker icon">| [comment]: <> (Primeira linha-----------------------------------------------------------------------------------------)
+|<img style="filter: drop-shadow(2px 0px 5px rgb(240, 255, 0)) drop-shadow( 0px 2px 5px rgb(0, 140, 255));" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python icon"> |&nbsp;<img  style="filter: drop-shadow(0 0 5px rgb(0, 140, 255)) drop-shadow( 0 1px 1px black);" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 icon">| &nbsp;&nbsp;&nbsp;<img style="filter: drop-shadow(0 0 2px rgb(25, 255, 255)) drop-shadow( 0 1px 1px black);" align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dot net core">| <img style="filter: drop-shadow(0 0 2px rgb(0, 110, 255)) drop-shadow( 0 1px 1px black); " align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg"> | [comment]: <> (Segunda linha----------------------------------------------------------------------------------------------------------------------------------)
+|| &nbsp;<img style="filter: drop-shadow(0 0 5px rgb(240, 255, 0)) drop-shadow( 0 1px 1px black);"  align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript icon">|&nbsp;&nbsp;&nbsp;<img style="filter: drop-shadow(0 0 2px rgb(0, 255, 76)) drop-shadow( 0 1px 1px black);"  align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt ="Django icon">| |[comment]: <> (Terceira linha--------------------------------------------------------------------------------------------------------------------------)
+|||&nbsp;&nbsp;&nbsp;<img style="filter: drop-shadow(0 0 2px rgb(0, 255, 76)) drop-shadow( 0 1px 1px black);" align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">  
+
+
+  
+   
     
-    
-</div>
-
-
-
-###
-
-#### Frameworks:
-
-<div style="display:inline_block">
-    <img style="filter: drop-shadow(0 0 2px rgb(25, 255, 255)) drop-shadow( 0 1px 3px black);" align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" alt="dot net icon">&nbsp;&nbsp;
-    <img style="filter: drop-shadow(0 0 2px rgb(25, 255, 255)) drop-shadow( 0 1px 1px black);" align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dot net core">&nbsp;&nbsp;
-    <img style="filter: drop-shadow(0 0 2px rgb(0, 255, 76)) drop-shadow( 0 1px 1px black);"  align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt ="Django icon">&nbsp;&nbsp;
-    <img style="filter: drop-shadow(0 0 2px rgb(0, 255, 76)) drop-shadow( 0 1px 1px black);" align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"> 
-</div>
-
-
-
-#### Containers e Orchestrators : 
-
-<div style="display:inline_block">
-    <img style="filter: drop-shadow(0 0 2px rgb(0, 162, 255)) drop-shadow( 0 1px 1px black); " align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="Docker icon"> &nbsp;&nbsp;
-    <img style="filter: drop-shadow(0 0 2px rgb(0, 110, 255)) drop-shadow( 0 1px 1px black); " align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">
-</div>
 
 
 
