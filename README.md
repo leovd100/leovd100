@@ -6,7 +6,7 @@
 
 #### I'm Leonardo Demetrio, I'm 25 years old
 #### I'm from Brazil
-#### I'm a developer
+#### I'm a Java Back-end Developer
 
 ---
 
