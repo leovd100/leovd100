@@ -8,7 +8,6 @@
 #### I'm from Brazil
 #### I'm a Java Back-end Developer
 
----
 <!--
 <div>
  
