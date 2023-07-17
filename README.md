@@ -25,7 +25,7 @@
 
 ----
 
- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
+ <!--<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> -->
 
 |BACK-END |FRONT-END  | FRAMEWORKS | CONTAINER <br/>AND<br/> ORCHESTRATORS | Game Engines
 | --- | --- | --- | --- | ---
